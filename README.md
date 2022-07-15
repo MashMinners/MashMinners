@@ -1,4 +1,5 @@
 ### Hi there I'm Mash Minners also known as "Catacomb King"👋
+Skills: PHP Milord Developer
 
 <!--
 **MashMinners/MashMinners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
